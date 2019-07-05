@@ -1,5 +1,5 @@
 # ping2sms
-Alert System for PingPlotter Pro
+A SMS alert System for PingPlotter Pro
 
 # What is ping2sms?
 ping2sms is a program I created to ensure our team was alerted 24/7 on any outages on our network. When using Pingplotter Pro,
